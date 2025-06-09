@@ -1,0 +1,115 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	color:#000000;
+	background-color: #000099;
+	font-family: arial;
+	font-size: 11px;
+	}
+	
+a {
+	color: #cc0000;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+a:hover {
+	color: #FFFFFF;
+	text-decoration:underline;
+	}
+	
+/* ID Styles */
+	
+#navigation a {
+	font:10px arial;
+	color: #336666;
+	text-decoration:none;
+	letter-spacing:.1em;
+	}
+	
+#navigation a:hover {
+	color: #993300;
+	text-decoration:underline;
+	}
+
+#padding {
+	padding:20px 5px 20px 5px;
+	color: #009966;
+	}
+	
+#weekdays th {
+	font:10px arial;
+	color: #ffffff;
+	letter-spacing:.2em;
+	}
+
+#calheader td {
+	font-weight:bold;
+	}
+
+/* Class Styles */
+
+.logo {
+	color: #FFCC00;
+	letter-spacing:.4em;
+	font-weight:normal;
+	background-color: #000099;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 36px;
+	text-decoration: underline;
+	font-style: oblique;
+	list-style-type: none;
+	}
+
+.sidebarText {
+	font:12px georgia;
+	color: #336666;
+	line-height:18px;
+	background-color: #000099;
+	}
+	
+.bodyText {
+	line-height:24px;
+	color:#000000;
+	background-color: #FFCC33;
+	font-family: arial;
+	font-size: 24px;
+	}
+	
+.pageName {
+	font:20px georgia;
+	color: #CC3300;
+	letter-spacing:.1em;
+	line-height:26px;
+	background-color: #000099;
+	}
+	
+.subHeader {
+	font:14px georgia;
+	color: #669999;
+	font-weight:bold;
+	line-height:20px;
+	letter-spacing:.1em;
+	}
+	
+.navText {
+	color: #000000;
+	letter-spacing:.1em;
+	background-color: #000099;
+	font-family: arial;
+	font-size: 10px;
+	cursor: auto;
+	filter: FlipH;
+	}
+	
+.calendarText {
+	font:11px arial;
+	line-height:14px;
+	color:#333333;
+	}
+	
+	

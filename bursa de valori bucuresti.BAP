@@ -1,0 +1,44 @@
+<BAP>
+BAP Version 1.20
+FileName=C:\Documents and Settings\STELIAN\My Documents\Bursa de Valori Bucuresti\bursa de valori bucuresti.gif
+Height=60
+Width=468
+BackgroundColor=$00EAECDF
+BackgroundImage=yellowswirls.gif
+<BORDER>
+BevelInner=3
+BevelOuter=1
+Border=0
+BevelWidth=4
+BorderWidth=0
+BorderHilightColor=clWhite
+BorderShadowColor=clGray
+Transparent=FALSE
+TransparentColor=clBlack
+</BORDER>
+<SMOOTHTEXT>
+Text=BURSA DE VALORI BUCURESTI
+Left=70
+Top=16
+Font=Adobe Garamond Pro Bold
+FontColor=clBlack
+FontSize=14
+FontStyle=Plain
+Strikeout=FALSE
+Underline=FALSE
+ShadowDarkness=48
+ShadowStyle=None
+ShadowHeight=3
+Border=clGray
+BorderHeight=0
+LetterWidth=0
+3DDirection=135
+Gradient=FALSE
+GradientBeginColor=clBlack
+GradientEndColor=clBlue
+GradientDirection=Vertical
+3DEffect=Flying
+Antialiasing=TRUE
+Bitmap=''
+</SMOOTHTEXT>
+</BAP>
